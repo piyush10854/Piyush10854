@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Piyush Pandey
 
-<!--
-**piyush10854/Piyush10854** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Branch: CSE (Artificial Intelligence & Machine Learning)  
+📚 Year: 1st Year  
+💻 Interests: Web Development | AI | Machine Learning  
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I'm a 1st-year CSE (AI & ML) student passionate about technology, problem-solving, and building real-world projects. I enjoy learning new tools and exploring modern web and AI technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 What I Hope to Learn
+I hope to learn advanced web development, artificial intelligence, and machine learning to build impactful and innovative solutions.
+
+## 🛠️ Currently Learning
+- HTML, CSS, JavaScript  
+- Git & GitHub  
+- React (Beginner)  
+- Firebase  
+- AI & Machine Learning Basics  
+
+## 📌 Goals for 2026
+- Build real-world projects  
+- Contribute to open source  
+- Learn AI-powered web development  
+- Improve problem-solving skills  
+
+## 📫 Connect With Me
+- GitHub: https://github.com/Piyush10854
+
+---
+⭐️ Always learning | Always building | Always improving
